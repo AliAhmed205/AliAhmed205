@@ -3,7 +3,11 @@
 
 - 📚 I’m currently a student at [Amsterdam university of applied sciences](https://www.hva.nl/opleidingen/communication-and-multimedia-design)
 
-- 💡 Fun fact **I enjoy working more than relaxing.**
+- 🪛 Aspiring **Front-End Developer**, continuously evolving.
+
+- 👀 Looking for a **Front-end** internship! 
+
+- 🧑‍🎨 User Interface Designer (On-and-offline media) since 2020
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
