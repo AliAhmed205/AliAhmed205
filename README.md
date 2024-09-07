@@ -17,7 +17,6 @@
 <h3 align="left">Programming Languages</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/user-attachments/assets/4f32e349-fbeb-4574-99c5-557a51b5255c" alt="node-js" width="40" height="40"/>
 </p>
