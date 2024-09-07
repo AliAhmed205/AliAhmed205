@@ -5,7 +5,7 @@
 
 - 🪛 Aspiring **Front-End Developer**, continuously evolving.
 
-### - 👀 Looking for a **Front-end** internship! 
+### • 👀 Looking for a **Front-end** internship! 
 
 - 🧑‍🎨 User Interface Designer (On-and-offline media) since 2020
 
