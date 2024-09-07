@@ -14,6 +14,16 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmeda0002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmeda0002/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Wanting to learn </h3>
+<p align="left">
+<img src="https://github.com/user-attachments/assets/04a7fd10-6de2-4888-aadf-ad6b60f1c7d7" alt="next-js" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/8226be1d-04c4-4ace-8014-6404a5957858" alt="react-native" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/cbb9738a-f34b-42d3-97dd-3eb319fe2ae8" alt="vue-js" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/50b1a2e3-9eef-41de-859c-33f29cb2d1ec" alt="tailwind-css" width="40" height="40"/>
+
+</p>
+
+
 <h3 align="left">Programming Languages</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -29,9 +39,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
 </p>
-
  
-
 <h3 align="left">Design Tools</h3>
 <p align="left"><img src="https://github.com/user-attachments/assets/abcc6dee-099f-4dee-8590-799db5719989" alt="photoshop" width="40" height="40"/>
 <img src="https://github.com/user-attachments/assets/b11d5d68-cd4a-418c-a96e-e0f6f9a0b240" alt="adobe-illustrator" width="40" height="40"/>
