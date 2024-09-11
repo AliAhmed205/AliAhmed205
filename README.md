@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 <h3 align="center">I unite code and design to craft seamless digital experiences.</h3>
 
+### • 👀 Looking for a **Front-end** internship! 
+
 - 📚 I’m currently a student at [Amsterdam university of applied sciences](https://www.hva.nl/opleidingen/communication-and-multimedia-design)
 
 - 🪛 Aspiring **Front-End Developer**, continuously evolving.
-
-### • 👀 Looking for a **Front-end** internship! 
 
 - 🧑‍🎨 User Interface Designer (On-and-offline media) since 2020
 
