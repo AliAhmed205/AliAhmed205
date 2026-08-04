@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 <h3 align="center">I unite code and design to craft seamless digital experiences.</h3>
 
--  💼  Front-end Intern at **Creative Clicks** 
-
-- 📚 I’m currently a student at [Amsterdam university of applied sciences](https://www.hva.nl/opleidingen/communication-and-multimedia-design)
+-  💼 Junior Front-end Developer at **Creative Clicks** 
 
 - 🪛 Aspiring **Front-End Developer**, continuously evolving.
 
